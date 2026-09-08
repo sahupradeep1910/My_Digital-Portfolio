@@ -71,27 +71,27 @@ The portfolio includes:
 
 ### Home Page
 
-![Home Page](assets/screenshots/home.png.png)
-![Home Page](assets/screenshots/home1.png.png)
-![Home Page](assets/screenshots/home2.png.png)
+![Home Page](home.png.png)
+![Home Page](home1.png.png)
+![Home Page](home2.png.png)
 
 
 ### About Page
 
-![About Page](assets/screenshots/about.png.png)
-![About Page](assets/screenshots/about1.png.png)
+![About Page](about.png.png)
+![About Page](about1.png.png)
 
 
 ### Projects Page
 
-![Projects Page](assets/screenshots/project.png.png)
-![Projects Page](assets/screenshots/project1.png.png)
+![Projects Page](project.png.png)
+![Projects Page](project1.png.png)
 
 
 ### Contact Page
 
-![Contact Page](assets/screenshots/contact.png.png)
-![Contact Page](assets/screenshots/contact1.png.png)
+![Contact Page](contact.png.png)
+![Contact Page](contact1.png.png)
 
 
 ## Project Structure*
